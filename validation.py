@@ -22,6 +22,7 @@ def validate_user_input():
 
 user_number = validate_user_input()
 print(f'The number the user entered is {user_number}.')
+validate_user_input()
 
 
 # 2.1 TODO: Create a function called print_tenth_item that will
